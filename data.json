@@ -1,0 +1,514 @@
+﻿{
+  "__collections__": {
+    "currency": [
+      {
+        "Name": "Albanian Lek (ALL)",
+        "Rate": " 101.8924  "
+      },
+      {
+        "Name": "Algerian Dinar (DZD)",
+        "Rate": "133.4869 "
+      },
+      {
+        "Name": "Angolan Kwanza (AOA)",
+        "Rate": "653.4829 "
+      },
+      {
+        "Name": "Argentine Peso (ARS)",
+        "Rate": "93.7899 "
+      },
+      {
+        "Name": "Armenian Dram (AMD)",
+        "Rate": "521.6609 "
+      },
+      {
+        "Name": "Australian Dollar (AUD)",
+        "Rate": "1.2866 "
+      },
+      {
+        "Name": "Azerbaijani Manat (AZN)",
+        "Rate": "1.7000 "
+      },
+      {
+        "Name": "Bahamian Dollar (BSD)",
+        "Rate": "1.0000 "
+      },
+      {
+        "Name": "Bahraini Dinar (BHD)",
+        "Rate": "0.3772 "
+      },
+      {
+        "Name": "Bangladeshi Taka (BDT)",
+        "Rate": "84.7798 "
+      },
+      {
+        "Name": "Barbados Dollar (BBD)",
+        "Rate": "2.0000 "
+      },
+      {
+        "Name": "Belarusian Ruble (BYN)",
+        "Rate": "2.5348 "
+      },
+      {
+        "Name": "Belize Dollar (BZD)",
+        "Rate": "2.0154 "
+      },
+      {
+        "Name": "Bermudian Dollar (BMD)",
+        "Rate": "1.0025 "
+      },
+      {
+        "Name": "Bolivian Boliviano (BOB)",
+        "Rate": "6.9400 "
+      },
+      {
+        "Name": "Bosnia and Herzegovina Marka (BAM)",
+        "Rate": "1.6209 "
+      },
+      {
+        "Name": "Botswana Pula (BWP)",
+        "Rate": "10.8743 "
+      },
+      {
+        "Name": "Brazilian Real (BRL)",
+        "Rate": "5.2819 "
+      },
+      {
+        "Name": "British Pound (GBP)",
+        "Rate": "0.7194 "
+      },
+      {
+        "Name": "Brunei Dollar (BND)",
+        "Rate": "1.3319 "
+      },
+      {
+        "Name": "Bulgarian Lev (BGN)",
+        "Rate": "1.6209 "
+      },
+      {
+        "Name": "Burundi Franc (BIF)",
+        "Rate": "1976.0828 "
+      },
+      {
+        "Name": "Cambodian Riel (KHR)",
+        "Rate": "4051.6631 "
+      },
+      {
+        "Name": "Canadian Dollar (CAD)",
+        "Rate": "1.2179 "
+      },
+      {
+        "Name": "Cape Verde Escudo (CVE)",
+        "Rate": "91.3800 "
+      },
+      {
+        "Name": "Cayman Islands Dollar (KYD)",
+        "Rate": "0.8332 "
+      },
+      {
+        "Name": "CFA BCEAO Franc (XOF)",
+        "Rate": "543.6233 "
+      },
+      {
+        "Name": "CFA BEAC Franc (XAF)",
+        "Rate": "543.6115 "
+      },
+      {
+        "Name": "CFP Franc (XPF)",
+        "Rate": "99.4465 "
+      },
+      {
+        "Name": "Chilean Peso (CLP)",
+        "Rate": "696.4121 "
+      },
+      {
+        "Name": "Chinese Yuan Renminbi (CNY)",
+        "Rate": "6.4553 "
+      },
+      {
+        "Name": "Colombian Peso (COP)",
+        "Rate": "3805.5303 "
+      },
+      {
+        "Name": "Costa Rican Colon (CRC)",
+        "Rate": "616.4056 "
+      },
+      {
+        "Name": "Croatian Kuna (HRK)",
+        "Rate": "6.2446 "
+      },
+      {
+        "Name": "Cuban Peso (CUP)",
+        "Rate": "24.0000 "
+      },
+      {
+        "Name": "Czech Koruna (CZK)",
+        "Rate": "21.2801 "
+      },
+      {
+        "Name": "Danish Krone (DKK)",
+        "Rate": "6.1625 "
+      },
+      {
+        "Name": "Djibouti Franc (DJF)",
+        "Rate": "178.0942 "
+      },
+      {
+        "Name": "Dominican Peso (DOP)",
+        "Rate": "56.8469 "
+      },
+      {
+        "Name": "East Caribbean Dollar (XCD)",
+        "Rate": "2.7024 "
+      },
+      {
+        "Name": "Egyptian Pound (EGP)",
+        "Rate": "15.6721 "
+      },
+      {
+        "Name": "Ethiopian Birr (ETB)",
+        "Rate": "42.1867 "
+      },
+      {
+        "Name": "Euro (EUR)",
+        "Rate": "0.8287 "
+      },
+      {
+        "Name": "Fiji Dollar (FJD)",
+        "Rate": "2.0293 "
+      },
+      {
+        "Name": "Gambian Dalasi (GMD)",
+        "Rate": "51.2250 "
+      },
+      {
+        "Name": "Georgian Lari (GEL)",
+        "Rate": "3.4403 "
+      },
+      {
+        "Name": "Ghanaian Cedi (GHS)",
+        "Rate": "5.7724 "
+      },
+      {
+        "Name": "Guatemalan Quetzal (GTQ)",
+        "Rate": "7.7132 "
+      },
+      {
+        "Name": "Guinea Franc (GNF)",
+        "Rate": "9875.0689 "
+      },
+      {
+        "Name": "Haitian Gourde (HTG)",
+        "Rate": "87.2303 "
+      },
+      {
+        "Name": "Honduran Lempira (HNL)",
+        "Rate": "23.9955 "
+      },
+      {
+        "Name": "Hong Kong Dollar (HKD)",
+        "Rate": "7.7668 "
+      },
+      {
+        "Name": "Hungarian Forint (HUF)",
+        "Rate": "296.6648 "
+      },
+      {
+        "Name": "Iceland Krona (ISK)",
+        "Rate": "124.7256 "
+      },
+      {
+        "Name": "Indian Rupee (INR)",
+        "Rate": "73.5042 "
+      },
+      {
+        "Name": "Indonesian Rupiah (IDR)",
+        "Rate": "14290.8501 "
+      },
+      {
+        "Name": "Iranian Rial (IRR)",
+        "Rate": "42175.0006 "
+      },
+      {
+        "Name": "Iraqi Dinar (IQD)",
+        "Rate": "1459.6015 "
+      },
+      {
+        "Name": "Israeli New Shekel (ILS)",
+        "Rate": "3.2683 "
+      },
+      {
+        "Name": "Jamaican Dollar (JMD)",
+        "Rate": "152.0124 "
+      },
+      {
+        "Name": "Japanese Yen (JPY)",
+        "Rate": "109.1973 "
+      },
+      {
+        "Name": "Jordanian Dinar (JOD)",
+        "Rate": "0.7095 "
+      },
+      {
+        "Name": "Kazakhstan Tenge (KZT)",
+        "Rate": "426.7796 "
+      },
+      {
+        "Name": "Kenyan Shilling (KES)",
+        "Rate": "106.7938 "
+      },
+      {
+        "Name": "Korean Won (KRW)",
+        "Rate": "1119.5817 "
+      },
+      {
+        "Name": "Kuwaiti Dinar (KWD)",
+        "Rate": "0.3015 "
+      },
+      {
+        "Name": "Kyrgyzstani Som (KGS)",
+        "Rate": "84.7724 "
+      },
+      {
+        "Name": "Lao Kip (LAK)",
+        "Rate": "9428.8804 "
+      },
+      {
+        "Name": "Lebanese Pound (LBP)",
+        "Rate": "1508.6209 "
+      },
+      {
+        "Name": "Lesotho Loti (LSL)",
+        "Rate": "14.2476 "
+      },
+      {
+        "Name": "Libyan Dinar (LYD)",
+        "Rate": "4.4925 "
+      },
+      {
+        "Name": "Macau Pataca (MOP)",
+        "Rate": "8.0035 "
+      },
+      {
+        "Name": "Macedonia Denar (MKD)",
+        "Rate": "51.0622 "
+      },
+      {
+        "Name": "Malawi Kwacha (MWK)",
+        "Rate": "793.8260 "
+      },
+      {
+        "Name": "Malaysian Ringgit (MYR)",
+        "Rate": "4.1137 "
+      },
+      {
+        "Name": "Mauritius Rupee (MUR)",
+        "Rate": "40.6990 "
+      },
+      {
+        "Name": "Mexican Peso (MXN)",
+        "Rate": "20.0741 "
+      },
+      {
+        "Name": "Moldovan Leu (MDL)",
+        "Rate": "17.7993 "
+      },
+      {
+        "Name": "Moroccan Dirham (MAD)",
+        "Rate": "8.8753 "
+      },
+      {
+        "Name": "Myanmar Kyat (MMK)",
+        "Rate": "1558.1391 "
+      },
+      {
+        "Name": "Namibian Dollar (NAD)",
+        "Rate": "14.2561 "
+      },
+      {
+        "Name": "Nepalese Rupee (NPR)",
+        "Rate": "117.5786 "
+      },
+      {
+        "Name": "Netherlands Antillian Guilder (ANG)",
+        "Rate": "1.7960 "
+      },
+      {
+        "Name": "New Zealand Dollar (NZD)",
+        "Rate": "1.3863 "
+      },
+      {
+        "Name": "Nicaraguan Cordoba Oro (NIO)",
+        "Rate": "34.9194 "
+      },
+      {
+        "Name": "Nigerian Naira (NGN)",
+        "Rate": "408.7043 "
+      },
+      {
+        "Name": "Norwegian Krone (NOK)",
+        "Rate": "8.2900 "
+      },
+      {
+        "Name": "Omani Rial (OMR)",
+        "Rate": "0.3850 "
+      },
+      {
+        "Name": "Pakistan Rupee (PKR)",
+        "Rate": "152.1299 "
+      },
+      {
+        "Name": "Panamanian Balboa (PAB)",
+        "Rate": "1.0000 "
+      },
+      {
+        "Name": "Paraguay Guarani (PYG)",
+        "Rate": "6789.2083 "
+      },
+      {
+        "Name": "Peruvian Sol (PEN)",
+        "Rate": "3.8178 "
+      },
+      {
+        "Name": "Philippine Peso (PHP)",
+        "Rate": "47.9172 "
+      },
+      {
+        "Name": "Polish Zloty (PLN)",
+        "Rate": "3.7923 "
+      },
+      {
+        "Name": "Qatari Rial (QAR)",
+        "Rate": "3.6426 "
+      },
+      {
+        "Name": "Romanian Leu (RON)",
+        "Rate": "4.0825 "
+      },
+      {
+        "Name": "Russian Ruble (RUB)",
+        "Rate": "74.1045 "
+      },
+      {
+        "Name": "Rwanda Franc (RWF)",
+        "Rate": "1001.3633 "
+      },
+      {
+        "Name": "Saudi Riyal (SAR)",
+        "Rate": "3.7528 "
+      },
+      {
+        "Name": "Serbian Dinar (RSD)",
+        "Rate": "97.4587 "
+      },
+      {
+        "Name": "Seychelles Rupee (SCR)",
+        "Rate": "15.1310 "
+      },
+      {
+        "Name": "Singapore Dollar (SGD)",
+        "Rate": "1.3316 "
+      },
+      {
+        "Name": "Somali Shilling (SOS)",
+        "Rate": "578.7025 "
+      },
+      {
+        "Name": "South African Rand (ZAR)",
+        "Rate": "14.2476 "
+      },
+      {
+        "Name": "Sri Lanka Rupee (LKR)",
+        "Rate": "196.9742 "
+      },
+      {
+        "Name": "Sudanese Pound (SDG)",
+        "Rate": "402.0000 "
+      },
+      {
+        "Name": "Swaziland Lilangeni (SZL)",
+        "Rate": "14.2489 "
+      },
+      {
+        "Name": "Swedish Krona (SEK)",
+        "Rate": "8.3890 "
+      },
+      {
+        "Name": "Swiss Franc (CHF)",
+        "Rate": "0.9084 "
+      },
+      {
+            "Name": "Syrian Pound (SYP)",
+            "Rate": "1258.5217 "
+        },
+        {
+            "Name": "Taiwan Dollar (TWD)",
+            "Rate": "27.8883 "
+        },
+        {
+            "Name": "Tanzanian Shilling (TZS)",
+            "Rate": "2319.0810 "
+        },
+        {
+            "Name": "Thai Baht (THB)",
+            "Rate": "31.1876 "
+        },
+        {
+            "Name": "Trinidad and Tobago Dollar (TTD)",
+            "Rate": "6.7974 "
+        },
+        {
+            "Name": "Tunisian Dinar (TND)",
+            "Rate": "2.7619 "
+        },
+        {
+            "Name": "Turkish Lira (TRY)",
+            "Rate": "8.2998 "
+        },
+        {
+            "Name": "Turkmenistan Manat (TMT)",
+            "Rate": "3.5000 "
+        },
+        {
+            "Name": "Uganda Shilling (UGX)",
+            "Rate": "3558.4856 "
+        },
+        {
+            "Name": "Ukraine Hryvnia (UAH)",
+            "Rate": "27.7677 "
+        },
+        {
+            "Name": "United Arab Emirates Dirham (AED)",
+            "Rate": "3.6729 "
+        },
+        {
+            "Name": "Uruguay Peso (UYU)",
+            "Rate": "44.1204 "
+        },
+        {
+            "Name": "US Dollar (USD)",
+            "Rate": "1.0000 "
+        },
+        {
+            "Name": "Uzbekistan Som (UZS)",
+            "Rate": "10497.7852 "
+        },
+        {
+            "Name": "Venezuelan Bolivar (VES)",
+            "Rate": "2858411.4211 "
+        },
+        {
+            "Name": "Vietnamese Dong (VND)",
+            "Rate": "23074.3314 "
+        },
+        {
+            "Name": "Yemeni Rial (YER)",
+            "Rate": "250.4531 "
+        },
+        {
+            "Name": "Zambian Kwacha (ZMW)",
+            "Rate": "22.3807 "
+        }
+    ]
+}
+}

@@ -1,0 +1,1534 @@
+   {
+  "currency": {
+    "ZMW": {
+      "name": "Zambian kwacha",
+      "country": "Zambia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/23px-Flag_of_Zambia.svg.png",
+      "symbol": "ZK"
+    },
+    "YER": {
+      "name": "Yemeni rial",
+      "country": "Yemen",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/23px-Flag_of_Yemen.svg.png",
+      "symbol": "﷼"
+    },
+    "XPF": {
+      "name": "CFP franc",
+      "country": "Wallis and Futuna",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+      "symbol": "₣"
+    },
+    "VND": {
+      "name": "Vietnamese đồng",
+      "country": "Vietnam",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png",
+      "symbol": "₫"
+    },
+    "VES": {
+      "name": "Venezuelan bolívar soberano",
+      "country": "Venezuela",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png",
+      "symbol": "Bs.S. or Bs."
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Vatican City",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/16px-Flag_of_the_Vatican_City.svg.png",
+      "symbol": "€"
+    },
+    "VUV": {
+      "name": "Vanuatu vatu",
+      "country": "Vanuatu",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/23px-Flag_of_Vanuatu.svg.png",
+      "symbol": "Vt"
+    },
+    "UZS": {
+      "name": "Uzbekistani soʻm",
+      "country": "Uzbekistan",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/23px-Flag_of_Uzbekistan.svg.png",
+      "symbol": "so'm or сўм"
+    },
+    "UYU": {
+      "name": "Uruguayan peso",
+      "country": "Uruguay",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png",
+      "symbol": "$"
+    },
+    "USD": {
+      "name": "United States dollar",
+      "country": "United States",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+      "symbol": "$"
+    },
+    "SHP": {
+      "name": "Saint Helena pound",
+      "country": "Ascension Island",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+      "symbol": "£"
+    },
+    "GBP": {
+      "name": "British pound",
+      "country": "United Kingdom",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+      "symbol": "£"
+    },
+    "AED": {
+      "name": "United Arab Emirates dirham",
+      "country": "United Arab Emirates",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/23px-Flag_of_the_United_Arab_Emirates.svg.png",
+      "symbol": "د.إ"
+    },
+    "UAH": {
+      "name": "Ukrainian hryvnia",
+      "country": "Ukraine",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png",
+      "symbol": "₴"
+    },
+    "UGX": {
+      "name": "Ugandan shilling",
+      "country": "Uganda",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/23px-Flag_of_Uganda.svg.png",
+      "symbol": "Sh"
+    },
+    "TVD": {
+      "name": "Tuvaluan dollar",
+      "country": "Tuvalu",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/23px-Flag_of_Tuvalu.svg.png",
+      "symbol": "$"
+    },
+    "AUD": {
+      "name": "Australian dollar",
+      "country": "Tuvalu",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/23px-Flag_of_Tuvalu.svg.png",
+      "symbol": "$"
+    },
+    "USD": {
+      "name": "United States dollar",
+      "country": "Turks and Caicos Islands",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg/23px-Flag_of_the_Turks_and_Caicos_Islands.svg.png",
+      "symbol": "$"
+    },
+    "TMT": {
+      "name": "Turkmenistan manat",
+      "country": "Turkmenistan",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/23px-Flag_of_Turkmenistan.svg.png",
+      "symbol": "m"
+    },
+    "TRY": {
+      "name": "Turkish lira",
+      "country": "Turkey",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png",
+      "symbol": "₺"
+    },
+    "TND": {
+      "name": "Tunisian dinar",
+      "country": "Tunisia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/23px-Flag_of_Tunisia.svg.png",
+      "symbol": "د.ت"
+    },
+    "TTD": {
+      "name": "Trinidad and Tobago dollar",
+      "country": "Trinidad and Tobago",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/23px-Flag_of_Trinidad_and_Tobago.svg.png",
+      "symbol": "$"
+    },
+    "PRB": {
+      "name": "Transnistrian ruble",
+      "country": "Transnistria",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Flag_of_Transnistria.svg/23px-Flag_of_Transnistria.svg.png",
+      "symbol": "р."
+    },
+    "TOP": {
+      "name": "Tongan paʻanga",
+      "country": "Tonga",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/23px-Flag_of_Tonga.svg.png",
+      "symbol": "T$"
+    },
+    "XOF": {
+      "name": "West African CFA franc",
+      "country": "Togo",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/23px-Flag_of_Togo.svg.png",
+      "symbol": "Fr"
+    },
+    "THB": {
+      "name": "Thai baht",
+      "country": "Thailand",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png",
+      "symbol": "฿"
+    },
+    "TZS": {
+      "name": "Tanzanian shilling",
+      "country": "Tanzania",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/23px-Flag_of_Tanzania.svg.png",
+      "symbol": "Sh"
+    },
+    "TJS": {
+      "name": "Tajikistani somoni",
+      "country": "Tajikistan",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/23px-Flag_of_Tajikistan.svg.png",
+      "symbol": "ЅМ"
+    },
+    "TWD": {
+      "name": "New Taiwan dollar",
+      "country": "Taiwan",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/23px-Flag_of_the_Republic_of_China.svg.png",
+      "symbol": "$"
+    },
+    "SYP": {
+      "name": "Syrian pound",
+      "country": "Syria",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/23px-Flag_of_Syria.svg.png",
+      "symbol": "£ or ل.س"
+    },
+    "CHF": {
+      "name": "Swiss franc",
+      "country": "Switzerland",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png",
+      "symbol": "Fr."
+    },
+    "SEK": {
+      "name": "Swedish krona",
+      "country": "Sweden",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png",
+      "symbol": "kr"
+    },
+    "SRD": {
+      "name": "Surinamese dollar",
+      "country": "Suriname",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png",
+      "symbol": "$"
+    },
+    "SDG": {
+      "name": "Sudanese pound",
+      "country": "Sudan",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/23px-Flag_of_Sudan.svg.png",
+      "symbol": "ج.س."
+    },
+    "LKR": {
+      "name": "Sri Lankan rupee",
+      "country": "Sri Lanka",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/23px-Flag_of_Sri_Lanka.svg.png",
+      "symbol": "Rs, රු or ரூ"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Spain",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+      "symbol": "€"
+    },
+    "SSP": {
+      "name": "South Sudanese pound",
+      "country": "South Sudan",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/23px-Flag_of_South_Sudan.svg.png",
+      "symbol": "£"
+    },
+    "RUB": {
+      "name": "Russian ruble",
+      "country": "South Ossetia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/23px-Flag_of_South_Ossetia.svg.png",
+      "symbol": "₽"
+    },
+    "ZAR": {
+      "name": "South African rand",
+      "country": "South Africa",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png",
+      "symbol": "R"
+    },
+    "SLS": {
+      "name": "Somaliland shilling",
+      "country": "Somaliland",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Somaliland.svg/23px-Flag_of_Somaliland.svg.png",
+      "symbol": "Sl"
+    },
+    "SOS": {
+      "name": "Somali shilling",
+      "country": "Somalia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/23px-Flag_of_Somalia.svg.png",
+      "symbol": "Sh"
+    },
+    "SBD": {
+      "name": "Solomon Islands dollar",
+      "country": "Solomon Islands",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/23px-Flag_of_the_Solomon_Islands.svg.png",
+      "symbol": "$"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Slovenia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/23px-Flag_of_Slovenia.svg.png",
+      "symbol": "€"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Slovakia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/23px-Flag_of_Slovakia.svg.png",
+      "symbol": "€"
+    },
+    "ANG": {
+      "name": "Netherlands Antillean guilder",
+      "country": "Sint Maarten",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Sint_Maarten.svg/23px-Flag_of_Sint_Maarten.svg.png",
+      "symbol": "ƒ"
+    },
+    "USD": {
+      "name": "United States dollar",
+      "country": "Sint Eustatius",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Sint_Eustatius.svg/23px-Flag_of_Sint_Eustatius.svg.png",
+      "symbol": "$"
+    },
+    "SGD": {
+      "name": "Singapore dollar",
+      "country": "Singapore",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/23px-Flag_of_Singapore.svg.png",
+      "symbol": "$"
+    },
+    "BND": {
+      "name": "Brunei dollar",
+      "country": "Singapore",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/23px-Flag_of_Singapore.svg.png",
+      "symbol": "$"
+    },
+    "SLL": {
+      "name": "Sierra Leonean leone",
+      "country": "Sierra Leone",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/23px-Flag_of_Sierra_Leone.svg.png",
+      "symbol": "Le"
+    },
+    "SCR": {
+      "name": "Seychellois rupee",
+      "country": "Seychelles",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/23px-Flag_of_Seychelles.svg.png",
+      "symbol": "₨"
+    },
+    "RSD": {
+      "name": "Serbian dinar",
+      "country": "Serbia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/23px-Flag_of_Serbia.svg.png",
+      "symbol": "дин. or din."
+    },
+    "XOF": {
+      "name": "West African CFA franc",
+      "country": "Senegal",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/23px-Flag_of_Senegal.svg.png",
+      "symbol": "Fr"
+    },
+    "SAR": {
+      "name": "Saudi riyal",
+      "country": "Saudi Arabia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png",
+      "symbol": "﷼"
+    },
+    "STN": {
+      "name": "São Tomé and Príncipe dobra",
+      "country": "São Tomé and Príncipe",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/23px-Flag_of_Sao_Tome_and_Principe.svg.png",
+      "symbol": "Db"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "San Marino",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/20px-Flag_of_San_Marino.svg.png",
+      "symbol": "€"
+    },
+    "WST": {
+      "name": "Samoan tālā",
+      "country": "Samoa",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/23px-Flag_of_Samoa.svg.png",
+      "symbol": "T"
+    },
+    "XCD": {
+      "name": "Eastern Caribbean dollar",
+      "country": "Saint Vincent and the Grenadines",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/23px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
+      "symbol": "$"
+    },
+    "XCD": {
+      "name": "Eastern Caribbean dollar",
+      "country": "Saint Lucia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/23px-Flag_of_Saint_Lucia.svg.png",
+      "symbol": "$"
+    },
+    "XCD": {
+      "name": "Eastern Caribbean dollar",
+      "country": "Saint Kitts and Nevis",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/23px-Flag_of_Saint_Kitts_and_Nevis.svg.png",
+      "symbol": "$"
+    },
+    "SHP": {
+      "name": "Saint Helena pound",
+      "country": "Saint Helena",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Saint_Helena.svg/23px-Flag_of_Saint_Helena.svg.png",
+      "symbol": "£"
+    },
+    "DZD": {
+      "name": "Algerian dinar",
+      "country": "[N]",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/23px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png",
+      "symbol": "د.ج"
+    },
+    "MRU": {
+      "name": "Mauritanian ouguiya",
+      "country": "[N]",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/23px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png",
+      "symbol": "UM"
+    },
+    "MAD": {
+      "name": "Moroccan dirham",
+      "country": "[N]",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/23px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png",
+      "symbol": "د. م."
+    },
+    "USD": {
+      "name": "United States dollar",
+      "country": "Saba",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Saba.svg/23px-Flag_of_Saba.svg.png",
+      "symbol": "$"
+    },
+    "RWF": {
+      "name": "Rwandan franc",
+      "country": "Rwanda",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/23px-Flag_of_Rwanda.svg.png",
+      "symbol": "Fr"
+    },
+    "RUB": {
+      "name": "Russian ruble",
+      "country": "Russia",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+      "symbol": "₽"
+    },
+    "RON": {
+      "name": "Romanian leu",
+      "country": "Romania",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png",
+      "symbol": "lei"
+    },
+    "QAR": {
+      "name": "Qatari riyal",
+      "country": "Qatar",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/23px-Flag_of_Qatar.svg.png",
+      "symbol": "ر.ق"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Portugal",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png",
+      "symbol": "€"
+    },
+    "PLN": {
+      "name": "Polish złoty",
+      "country": "Poland",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png",
+      "symbol": "zł"
+    },
+    "NZD": {
+      "name": "New Zealand dollar",
+      "country": "Pitcairn Islands",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_the_Pitcairn_Islands.svg/23px-Flag_of_the_Pitcairn_Islands.svg.png",
+      "symbol": "$"
+    },
+    "PND": {
+      "name": "Pitcairn Islands dollar",
+      "country": "Pitcairn Islands",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_the_Pitcairn_Islands.svg/23px-Flag_of_the_Pitcairn_Islands.svg.png",
+      "symbol": "$"
+    },
+    "PHP": {
+      "name": "Philippine peso",
+      "country": "Philippines",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/23px-Flag_of_the_Philippines.svg.png",
+      "symbol": "₱"
+    },
+    "PEN": {
+      "name": "Peruvian sol",
+      "country": "Peru",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/23px-Flag_of_Peru.svg.png",
+      "symbol": "S/."
+    },
+    "PYG": {
+      "name": "Paraguayan guaraní",
+      "country": "Paraguay",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/23px-Flag_of_Paraguay.svg.png",
+      "symbol": "₲"
+    },
+    "PGK": {
+      "name": "Papua New Guinean kina",
+      "country": "Papua New Guinea",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/20px-Flag_of_Papua_New_Guinea.svg.png",
+      "symbol": "K"
+    },
+    "PAB": {
+      "name": "Panamanian balboa",
+      "country": "Panama",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/23px-Flag_of_Panama.svg.png",
+      "symbol": "B/."
+    },
+    "USD": {
+      "name": "United States dollar",
+      "country": "Panama",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/23px-Flag_of_Panama.svg.png",
+      "symbol": "$"
+    },
+    "ILS": {
+      "name": "Israeli new shekel",
+      "country": "Palestine",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/23px-Flag_of_Palestine.svg.png",
+      "symbol": "₪"
+    },
+    "JOD": {
+      "name": "Jordanian dinar",
+      "country": "Palestine",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/23px-Flag_of_Palestine.svg.png",
+      "symbol": "د.ا"
+    },
+    "USD": {
+      "name": "United States dollar",
+      "country": "Palau",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/23px-Flag_of_Palau.svg.png",
+      "symbol": "$"
+    },
+    "PKR": {
+      "name": "Pakistani rupee",
+      "country": "Pakistan",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png",
+      "symbol": "₨"
+    },
+    "OMR": {
+      "name": "Omani rial",
+      "country": "Oman",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/23px-Flag_of_Oman.svg.png",
+      "symbol": "ر.ع."
+    },
+    "NOK": {
+      "name": "Norwegian krone",
+      "country": "Norway",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+      "symbol": "kr"
+    },
+    "TRY": {
+      "name": "Turkish lira",
+      "country": "Northern Cyprus",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg/23px-Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg.png",
+      "symbol": "₺"
+    },
+    "MKD": {
+      "name": "Macedonian denar",
+      "country": "North Macedonia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/23px-Flag_of_North_Macedonia.svg.png",
+      "symbol": "ден"
+    },
+    "NZD": {
+      "name": "New Zealand dollar",
+      "country": "Niue",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/23px-Flag_of_Niue.svg.png",
+      "symbol": "$"
+    },
+    "NGN": {
+      "name": "Nigerian naira",
+      "country": "Nigeria",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/23px-Flag_of_Nigeria.svg.png",
+      "symbol": "₦"
+    },
+    "XOF": {
+      "name": "West African CFA franc",
+      "country": "Niger",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/18px-Flag_of_Niger.svg.png",
+      "symbol": "Fr"
+    },
+    "NIO": {
+      "name": "Nicaraguan córdoba",
+      "country": "Nicaragua",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/23px-Flag_of_Nicaragua.svg.png",
+      "symbol": "C$"
+    },
+    "NZD": {
+      "name": "New Zealand dollar",
+      "country": "New Zealand",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png",
+      "symbol": "$"
+    },
+    "XPF": {
+      "name": "CFP franc",
+      "country": "New Caledonia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flags_of_New_Caledonia.svg/43px-Flags_of_New_Caledonia.svg.png",
+      "symbol": "₣"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "[H]",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png",
+      "symbol": "€"
+    },
+    "NPR": {
+      "name": "Nepalese rupee",
+      "country": "Nepal",
+      "icon": "",
+      "symbol": "रू"
+    },
+    "AUD": {
+      "name": "Australian dollar",
+      "country": "Nauru",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/23px-Flag_of_Nauru.svg.png",
+      "symbol": "$"
+    },
+    "NAD": {
+      "name": "Namibian dollar",
+      "country": "Namibia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/23px-Flag_of_Namibia.svg.png",
+      "symbol": "$"
+    },
+    "ZAR": {
+      "name": "South African rand",
+      "country": "Namibia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/23px-Flag_of_Namibia.svg.png",
+      "symbol": "R"
+    },
+    "MMK": {
+      "name": "Burmese kyat",
+      "country": "Myanmar",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/23px-Flag_of_Myanmar.svg.png",
+      "symbol": "Ks"
+    },
+    "MZN": {
+      "name": "Mozambican metical",
+      "country": "Mozambique",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/23px-Flag_of_Mozambique.svg.png",
+      "symbol": "MT"
+    },
+    "MAD": {
+      "name": "Moroccan dirham",
+      "country": "Morocco",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png",
+      "symbol": "د.م."
+    },
+    "XCD": {
+      "name": "Eastern Caribbean dollar",
+      "country": "Montserrat",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Montserrat.svg/23px-Flag_of_Montserrat.svg.png",
+      "symbol": "$"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Montenegro",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/23px-Flag_of_Montenegro.svg.png",
+      "symbol": "€"
+    },
+    "MNT": {
+      "name": "Mongolian tögrög",
+      "country": "Mongolia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/23px-Flag_of_Mongolia.svg.png",
+      "symbol": "₮"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Monaco",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/19px-Flag_of_Monaco.svg.png",
+      "symbol": "€"
+    },
+    "MDL": {
+      "name": "Moldovan leu",
+      "country": "Moldova",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/23px-Flag_of_Moldova.svg.png",
+      "symbol": "L"
+    },
+    "USD": {
+      "name": "United States dollar",
+      "country": "Micronesia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/23px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
+      "symbol": "$"
+    },
+    "MXN": {
+      "name": "Mexican peso",
+      "country": "Mexico",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+      "symbol": "$"
+    },
+    "MUR": {
+      "name": "Mauritian rupee",
+      "country": "Mauritius",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/23px-Flag_of_Mauritius.svg.png",
+      "symbol": "₨"
+    },
+    "MRU": {
+      "name": "Mauritanian ouguiya",
+      "country": "Mauritania",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/23px-Flag_of_Mauritania.svg.png",
+      "symbol": "UM"
+    },
+    "USD": {
+      "name": "United States dollar",
+      "country": "Marshall Islands",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/23px-Flag_of_the_Marshall_Islands.svg.png",
+      "symbol": "$"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Malta",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/23px-Flag_of_Malta.svg.png",
+      "symbol": "€"
+    },
+    "XOF": {
+      "name": "West African CFA franc",
+      "country": "Mali",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/23px-Flag_of_Mali.svg.png",
+      "symbol": "Fr"
+    },
+    "MVR": {
+      "name": "Maldivian rufiyaa",
+      "country": "Maldives",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/23px-Flag_of_Maldives.svg.png",
+      "symbol": ".ރ"
+    },
+    "MYR": {
+      "name": "Malaysian ringgit",
+      "country": "Malaysia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png",
+      "symbol": "RM"
+    },
+    "MWK": {
+      "name": "Malawian kwacha",
+      "country": "Malawi",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/23px-Flag_of_Malawi.svg.png",
+      "symbol": "MK"
+    },
+    "MGA": {
+      "name": "Malagasy ariary",
+      "country": "Madagascar",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/23px-Flag_of_Madagascar.svg.png",
+      "symbol": "Ar"
+    },
+    "MOP": {
+      "name": "Macanese pataca",
+      "country": "Macau",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/23px-Flag_of_Macau.svg.png",
+      "symbol": "MOP$"
+    },
+    "HKD": {
+      "name": "Hong Kong dollar",
+      "country": "Macau",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/23px-Flag_of_Macau.svg.png",
+      "symbol": "$"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Luxembourg",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/23px-Flag_of_Luxembourg.svg.png",
+      "symbol": "€"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Lithuania",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/23px-Flag_of_Lithuania.svg.png",
+      "symbol": "€"
+    },
+    "CHF": {
+      "name": "Swiss franc",
+      "country": "Liechtenstein",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/23px-Flag_of_Liechtenstein.svg.png",
+      "symbol": "Fr."
+    },
+    "LYD": {
+      "name": "Libyan dinar",
+      "country": "Libya",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/23px-Flag_of_Libya.svg.png",
+      "symbol": "ل.د"
+    },
+    "LRD": {
+      "name": "Liberian dollar",
+      "country": "Liberia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/23px-Flag_of_Liberia.svg.png",
+      "symbol": "$"
+    },
+    "LSL": {
+      "name": "Lesotho loti",
+      "country": "Lesotho",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/23px-Flag_of_Lesotho.svg.png",
+      "symbol": "L"
+    },
+    "ZAR": {
+      "name": "South African rand",
+      "country": "Lesotho",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/23px-Flag_of_Lesotho.svg.png",
+      "symbol": "R"
+    },
+    "LBP": {
+      "name": "Lebanese pound",
+      "country": "Lebanon",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/23px-Flag_of_Lebanon.svg.png",
+      "symbol": "ل.ل"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Latvia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/23px-Flag_of_Latvia.svg.png",
+      "symbol": "€"
+    },
+    "LAK": {
+      "name": "Lao kip",
+      "country": "Laos",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/23px-Flag_of_Laos.svg.png",
+      "symbol": "₭"
+    },
+    "KGS": {
+      "name": "Kyrgyzstani som",
+      "country": "Kyrgyzstan",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/23px-Flag_of_Kyrgyzstan.svg.png",
+      "symbol": "с"
+    },
+    "KWD": {
+      "name": "Kuwaiti dinar",
+      "country": "Kuwait",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/23px-Flag_of_Kuwait.svg.png",
+      "symbol": "د.ك"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Kosovo",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/21px-Flag_of_Kosovo.svg.png",
+      "symbol": "€"
+    },
+    "KRW": {
+      "name": "South Korean won",
+      "country": "Korea, South",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png",
+      "symbol": "₩"
+    },
+    "KPW": {
+      "name": "North Korean won",
+      "country": "Korea, North",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/23px-Flag_of_North_Korea.svg.png",
+      "symbol": "₩"
+    },
+    "KID": {
+      "name": "Kiribati dollar",
+      "country": "Kiribati",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/23px-Flag_of_Kiribati.svg.png",
+      "symbol": "$"
+    },
+    "AUD": {
+      "name": "Australian dollar",
+      "country": "Kiribati",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/23px-Flag_of_Kiribati.svg.png",
+      "symbol": "$"
+    },
+    "KES": {
+      "name": "Kenyan shilling",
+      "country": "Kenya",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/23px-Flag_of_Kenya.svg.png",
+      "symbol": "Sh"
+    },
+    "KZT": {
+      "name": "Kazakhstani tenge",
+      "country": "Kazakhstan",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/23px-Flag_of_Kazakhstan.svg.png",
+      "symbol": "₸"
+    },
+    "JOD": {
+      "name": "Jordanian dinar",
+      "country": "Jordan",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/23px-Flag_of_Jordan.svg.png",
+      "symbol": "د.ا"
+    },
+    "JEP": {
+      "name": "Jersey pound",
+      "country": "Jersey",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/23px-Flag_of_Jersey.svg.png",
+      "symbol": "£"
+    },
+    "GBP": {
+      "name": "British pound",
+      "country": "Jersey",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/23px-Flag_of_Jersey.svg.png",
+      "symbol": "£"
+    },
+    "JPY": {
+      "name": "Japanese yen",
+      "country": "Japan",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+      "symbol": "¥ or 円"
+    },
+    "JMD": {
+      "name": "Jamaican dollar",
+      "country": "Jamaica",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/23px-Flag_of_Jamaica.svg.png",
+      "symbol": "$"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Italy",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png",
+      "symbol": "€"
+    },
+    "ILS": {
+      "name": "Israeli new shekel",
+      "country": "Israel",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png",
+      "symbol": "₪"
+    },
+    "IMP": {
+      "name": "Manx pound",
+      "country": "Isle of Man",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/23px-Flag_of_the_Isle_of_Man.svg.png",
+      "symbol": "£"
+    },
+    "GBP": {
+      "name": "British pound",
+      "country": "Isle of Man",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/23px-Flag_of_the_Isle_of_Man.svg.png",
+      "symbol": "£"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Ireland",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png",
+      "symbol": "€"
+    },
+    "IQD": {
+      "name": "Iraqi dinar",
+      "country": "Iraq",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/23px-Flag_of_Iraq.svg.png",
+      "symbol": "ع.د"
+    },
+    "IRR": {
+      "name": "Iranian rial",
+      "country": "Iran",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png",
+      "symbol": "﷼"
+    },
+    "IDR": {
+      "name": "Indonesian rupiah",
+      "country": "Indonesia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png",
+      "symbol": "Rp"
+    },
+    "INR": {
+      "name": "Indian rupee",
+      "country": "India",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+      "symbol": "₹"
+    },
+    "ISK": {
+      "name": "Icelandic króna",
+      "country": "Iceland",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/21px-Flag_of_Iceland.svg.png",
+      "symbol": "kr"
+    },
+    "HUF": {
+      "name": "Hungarian forint",
+      "country": "Hungary",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png",
+      "symbol": "Ft"
+    },
+    "HKD": {
+      "name": "Hong Kong dollar",
+      "country": "Hong Kong",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/23px-Flag_of_Hong_Kong.svg.png",
+      "symbol": "$"
+    },
+    "HNL": {
+      "name": "Honduran lempira",
+      "country": "Honduras",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/23px-Flag_of_Honduras.svg.png",
+      "symbol": "L"
+    },
+    "HTG": {
+      "name": "Haitian gourde",
+      "country": "Haiti",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/23px-Flag_of_Haiti.svg.png",
+      "symbol": "G"
+    },
+    "GYD": {
+      "name": "Guyanese dollar",
+      "country": "Guyana",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/23px-Flag_of_Guyana.svg.png",
+      "symbol": "$"
+    },
+    "XOF": {
+      "name": "West African CFA franc",
+      "country": "Guinea-Bissau",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/23px-Flag_of_Guinea-Bissau.svg.png",
+      "symbol": "Fr"
+    },
+    "GNF": {
+      "name": "Guinean franc",
+      "country": "Guinea",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/23px-Flag_of_Guinea.svg.png",
+      "symbol": "Fr"
+    },
+    "GGP": {
+      "name": "Guernsey pound",
+      "country": "Guernsey",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/23px-Flag_of_Guernsey.svg.png",
+      "symbol": "£"
+    },
+    "GBP": {
+      "name": "British pound",
+      "country": "Guernsey",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/23px-Flag_of_Guernsey.svg.png",
+      "symbol": "£"
+    },
+    "GTQ": {
+      "name": "Guatemalan quetzal",
+      "country": "Guatemala",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/23px-Flag_of_Guatemala.svg.png",
+      "symbol": "Q"
+    },
+    "XCD": {
+      "name": "Eastern Caribbean dollar",
+      "country": "Grenada",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/23px-Flag_of_Grenada.svg.png",
+      "symbol": "$"
+    },
+    "DKK": {
+      "name": "Danish krone",
+      "country": "Greenland",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/23px-Flag_of_Greenland.svg.png",
+      "symbol": "kr"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Greece",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png",
+      "symbol": "€"
+    },
+    "GIP": {
+      "name": "Gibraltar pound",
+      "country": "Gibraltar",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/23px-Flag_of_Gibraltar.svg.png",
+      "symbol": "£"
+    },
+    "GHS": {
+      "name": "Ghanaian cedi",
+      "country": "Ghana",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/23px-Flag_of_Ghana.svg.png",
+      "symbol": "₵"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Germany",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png",
+      "symbol": "€"
+    },
+    "GEL": {
+      "name": "Georgian lari",
+      "country": "Georgia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/23px-Flag_of_Georgia.svg.png",
+      "symbol": "₾"
+    },
+    "GMD": {
+      "name": "Gambian dalasi",
+      "country": "Gambia, The",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/23px-Flag_of_The_Gambia.svg.png",
+      "symbol": "D"
+    },
+    "XAF": {
+      "name": "Central African CFA franc",
+      "country": "Gabon",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/20px-Flag_of_Gabon.svg.png",
+      "symbol": "Fr"
+    },
+    "XPF": {
+      "name": "CFP franc",
+      "country": "French Polynesia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/23px-Flag_of_French_Polynesia.svg.png",
+      "symbol": "₣"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "France",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+      "symbol": "€"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Finland",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+      "symbol": "€"
+    },
+    "FJD": {
+      "name": "Fijian dollar",
+      "country": "Fiji",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/23px-Flag_of_Fiji.svg.png",
+      "symbol": "$"
+    },
+    "DKK": {
+      "name": "Danish krone",
+      "country": "Faroe Islands",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/21px-Flag_of_the_Faroe_Islands.svg.png",
+      "symbol": "kr"
+    },
+    "FOK": {
+      "name": "Faroese króna",
+      "country": "Faroe Islands",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/21px-Flag_of_the_Faroe_Islands.svg.png",
+      "symbol": "kr"
+    },
+    "FKP": {
+      "name": "Falkland Islands pound",
+      "country": "Falkland Islands",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_Falkland_Islands.svg/23px-Flag_of_the_Falkland_Islands.svg.png",
+      "symbol": "£"
+    },
+    "ETB": {
+      "name": "Ethiopian birr",
+      "country": "Ethiopia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/23px-Flag_of_Ethiopia.svg.png",
+      "symbol": "Br"
+    },
+    "SZL": {
+      "name": "Swazi lilangeni",
+      "country": "Eswatini",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/23px-Flag_of_Eswatini.svg.png",
+      "symbol": "L"
+    },
+    "ZAR": {
+      "name": "South African rand",
+      "country": "Eswatini",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/23px-Flag_of_Eswatini.svg.png",
+      "symbol": "R"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Estonia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/23px-Flag_of_Estonia.svg.png",
+      "symbol": "€"
+    },
+    "ERN": {
+      "name": "Eritrean nakfa",
+      "country": "Eritrea",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/23px-Flag_of_Eritrea.svg.png",
+      "symbol": "Nfk"
+    },
+    "XAF": {
+      "name": "Central African CFA franc",
+      "country": "Equatorial Guinea",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/23px-Flag_of_Equatorial_Guinea.svg.png",
+      "symbol": "Fr"
+    },
+    "USD": {
+      "name": "United States dollar",
+      "country": "El Salvador",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/23px-Flag_of_El_Salvador.svg.png",
+      "symbol": "$"
+    },
+    "EGP": {
+      "name": "Egyptian pound",
+      "country": "Egypt",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png",
+      "symbol": "£ or ج.م"
+    },
+    "USD": {
+      "name": "United States dollar",
+      "country": "Ecuador",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/23px-Flag_of_Ecuador.svg.png",
+      "symbol": "$"
+    },
+    "USD": {
+      "name": "United States dollar",
+      "country": "East Timor",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/23px-Flag_of_East_Timor.svg.png",
+      "symbol": "$"
+    },
+    "DOP": {
+      "name": "Dominican peso",
+      "country": "Dominican Republic",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/23px-Flag_of_the_Dominican_Republic.svg.png",
+      "symbol": "RD$"
+    },
+    "XCD": {
+      "name": "Eastern Caribbean dollar",
+      "country": "Dominica",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/23px-Flag_of_Dominica.svg.png",
+      "symbol": "$"
+    },
+    "DJF": {
+      "name": "Djiboutian franc",
+      "country": "Djibouti",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/23px-Flag_of_Djibouti.svg.png",
+      "symbol": "Fr"
+    },
+    "DKK": {
+      "name": "Danish krone",
+      "country": "Denmark",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png",
+      "symbol": "kr"
+    },
+    "CZK": {
+      "name": "Czech koruna",
+      "country": "Czech Republic",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png",
+      "symbol": "Kč"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Cyprus",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/23px-Flag_of_Cyprus.svg.png",
+      "symbol": "€"
+    },
+    "ANG": {
+      "name": "Netherlands Antillean guilder",
+      "country": "Curaçao",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/23px-Flag_of_Cura%C3%A7ao.svg.png",
+      "symbol": "ƒ"
+    },
+    "CUP": {
+      "name": "Cuban peso",
+      "country": "Cuba",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/23px-Flag_of_Cuba.svg.png",
+      "symbol": "$"
+    },
+    "HRK": {
+      "name": "Croatian kuna",
+      "country": "Croatia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png",
+      "symbol": "kn"
+    },
+    "XOF": {
+      "name": "West African CFA franc",
+      "country": "Côte d'Ivoire",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/23px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+      "symbol": "Fr"
+    },
+    "CRC": {
+      "name": "Costa Rican colón",
+      "country": "Costa Rica",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/23px-Flag_of_Costa_Rica.svg.png",
+      "symbol": "₡"
+    },
+    "CKD": {
+      "name": "Cook Islands dollar",
+      "country": "Cook Islands",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/23px-Flag_of_the_Cook_Islands.svg.png",
+      "symbol": "$"
+    },
+    "NZD": {
+      "name": "New Zealand dollar",
+      "country": "Cook Islands",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/23px-Flag_of_the_Cook_Islands.svg.png",
+      "symbol": "$"
+    },
+    "XAF": {
+      "name": "Central African CFA franc",
+      "country": "Congo, Republic of the",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/23px-Flag_of_the_Republic_of_the_Congo.svg.png",
+      "symbol": "Fr"
+    },
+    "CDF": {
+      "name": "Congolese franc",
+      "country": "Congo, Democratic Republic of the",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/20px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+      "symbol": "Fr"
+    },
+    "KMF": {
+      "name": "Comorian franc",
+      "country": "Comoros",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/23px-Flag_of_the_Comoros.svg.png",
+      "symbol": "Fr"
+    },
+    "COP": {
+      "name": "Colombian peso",
+      "country": "Colombia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png",
+      "symbol": "$"
+    },
+    "CNY": {
+      "name": "Chinese yuan",
+      "country": "China",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+      "symbol": "¥ or 元"
+    },
+    "CLP": {
+      "name": "Chilean peso",
+      "country": "Chile",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png",
+      "symbol": "$"
+    },
+    "XAF": {
+      "name": "Central African CFA franc",
+      "country": "Chad",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/23px-Flag_of_Chad.svg.png",
+      "symbol": "Fr"
+    },
+    "XAF": {
+      "name": "Central African CFA franc",
+      "country": "Central African Republic",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/23px-Flag_of_the_Central_African_Republic.svg.png",
+      "symbol": "Fr"
+    },
+    "KYD": {
+      "name": "Cayman Islands dollar",
+      "country": "Cayman Islands",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_the_Cayman_Islands.svg/23px-Flag_of_the_Cayman_Islands.svg.png",
+      "symbol": "$"
+    },
+    "CVE": {
+      "name": "Cape Verdean escudo",
+      "country": "Cape Verde",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/23px-Flag_of_Cape_Verde.svg.png",
+      "symbol": "Esc or $"
+    },
+    "CAD": {
+      "name": "Canadian dollar",
+      "country": "Canada",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png",
+      "symbol": "$"
+    },
+    "XAF": {
+      "name": "Central African CFA franc",
+      "country": "Cameroon",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/23px-Flag_of_Cameroon.svg.png",
+      "symbol": "Fr"
+    },
+    "KHR": {
+      "name": "Cambodian riel",
+      "country": "Cambodia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/23px-Flag_of_Cambodia.svg.png",
+      "symbol": "៛"
+    },
+    "BIF": {
+      "name": "Burundian franc",
+      "country": "Burundi",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/23px-Flag_of_Burundi.svg.png",
+      "symbol": "Fr"
+    },
+    "XOF": {
+      "name": "West African CFA franc",
+      "country": "Burkina Faso",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/23px-Flag_of_Burkina_Faso.svg.png",
+      "symbol": "Fr"
+    },
+    "BGN": {
+      "name": "Bulgarian lev",
+      "country": "Bulgaria",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png",
+      "symbol": "лв."
+    },
+    "BND": {
+      "name": "Brunei dollar",
+      "country": "Brunei",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/23px-Flag_of_Brunei.svg.png",
+      "symbol": "$"
+    },
+    "SGD": {
+      "name": "Singapore dollar",
+      "country": "Brunei",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/23px-Flag_of_Brunei.svg.png",
+      "symbol": "$"
+    },
+    "USD": {
+      "name": "United States dollar",
+      "country": "British Virgin Islands",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_British_Virgin_Islands.svg/23px-Flag_of_the_British_Virgin_Islands.svg.png",
+      "symbol": "$"
+    },
+    "USD": {
+      "name": "United States dollar",
+      "country": "British Indian Ocean Territory",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg/23px-Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg.png",
+      "symbol": "$"
+    },
+    "BRL": {
+      "name": "Brazilian real",
+      "country": "Brazil",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+      "symbol": "R$"
+    },
+    "BWP": {
+      "name": "Botswana pula",
+      "country": "Botswana",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/23px-Flag_of_Botswana.svg.png",
+      "symbol": "P"
+    },
+    "BAM": {
+      "name": "Bosnia and Herzegovina convertible mark",
+      "country": "Bosnia and Herzegovina",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/23px-Flag_of_Bosnia_and_Herzegovina.svg.png",
+      "symbol": "KM or КМ[I]"
+    },
+    "USD": {
+      "name": "United States dollar",
+      "country": "Bonaire",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Bonaire.svg/23px-Flag_of_Bonaire.svg.png",
+      "symbol": "$"
+    },
+    "BOB": {
+      "name": "Bolivian boliviano",
+      "country": "Bolivia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/22px-Flag_of_Bolivia.svg.png",
+      "symbol": "Bs."
+    },
+    "BTN": {
+      "name": "Bhutanese ngultrum",
+      "country": "Bhutan",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/23px-Flag_of_Bhutan.svg.png",
+      "symbol": "Nu."
+    },
+    "INR": {
+      "name": "Indian rupee",
+      "country": "Bhutan",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/23px-Flag_of_Bhutan.svg.png",
+      "symbol": "₹"
+    },
+    "BMD": {
+      "name": "Bermudian dollar",
+      "country": "Bermuda",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bermuda.svg/23px-Flag_of_Bermuda.svg.png",
+      "symbol": "$"
+    },
+    "XOF": {
+      "name": "West African CFA franc",
+      "country": "Benin",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/23px-Flag_of_Benin.svg.png",
+      "symbol": "Fr"
+    },
+    "BZD": {
+      "name": "Belize dollar",
+      "country": "Belize",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/23px-Flag_of_Belize.svg.png",
+      "symbol": "$"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Belgium",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png",
+      "symbol": "€"
+    },
+    "BYN": {
+      "name": "Belarusian ruble",
+      "country": "Belarus",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/23px-Flag_of_Belarus.svg.png",
+      "symbol": "Br"
+    },
+    "BBD": {
+      "name": "Barbadian dollar",
+      "country": "Barbados",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/23px-Flag_of_Barbados.svg.png",
+      "symbol": "$"
+    },
+    "BDT": {
+      "name": "Bangladeshi taka",
+      "country": "Bangladesh",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/23px-Flag_of_Bangladesh.svg.png",
+      "symbol": "৳"
+    },
+    "BHD": {
+      "name": "Bahraini dinar",
+      "country": "Bahrain",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/23px-Flag_of_Bahrain.svg.png",
+      "symbol": ".د.ب"
+    },
+    "BSD": {
+      "name": "Bahamian dollar",
+      "country": "Bahamas, The",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/23px-Flag_of_the_Bahamas.svg.png",
+      "symbol": "$"
+    },
+    "AZN": {
+      "name": "Azerbaijani manat",
+      "country": "Azerbaijan",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/23px-Flag_of_Azerbaijan.svg.png",
+      "symbol": "₼"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Austria",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png",
+      "symbol": "€"
+    },
+    "AUD": {
+      "name": "Australian dollar",
+      "country": "Australia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png",
+      "symbol": "$"
+    },
+    "AWG": {
+      "name": "Aruban florin",
+      "country": "Aruba",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/23px-Flag_of_Aruba.svg.png",
+      "symbol": "ƒ"
+    },
+    "AMD": {
+      "name": "Armenian dram",
+      "country": "Artsakh",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Artsakh.svg/23px-Flag_of_Artsakh.svg.png",
+      "symbol": "֏"
+    },
+    "AMD": {
+      "name": "Armenian dram",
+      "country": "Armenia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/23px-Flag_of_Armenia.svg.png",
+      "symbol": "֏"
+    },
+    "ARS": {
+      "name": "Argentine peso",
+      "country": "Argentina",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+      "symbol": "$"
+    },
+    "XCD": {
+      "name": "Eastern Caribbean dollar",
+      "country": "Antigua and Barbuda",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/23px-Flag_of_Antigua_and_Barbuda.svg.png",
+      "symbol": "$"
+    },
+    "XCD": {
+      "name": "Eastern Caribbean dollar",
+      "country": "Anguilla",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Anguilla.svg/23px-Flag_of_Anguilla.svg.png",
+      "symbol": "$"
+    },
+    "AOA": {
+      "name": "Angolan kwanza",
+      "country": "Angola",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/23px-Flag_of_Angola.svg.png",
+      "symbol": "Kz"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Andorra",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/22px-Flag_of_Andorra.svg.png",
+      "symbol": "€"
+    },
+    "DZD": {
+      "name": "Algerian dinar",
+      "country": "Algeria",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/23px-Flag_of_Algeria.svg.png",
+      "symbol": "د.ج"
+    },
+    "GBP": {
+      "name": "British pound",
+      "country": "Alderney",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Alderney.svg/23px-Flag_of_Alderney.svg.png",
+      "symbol": "£"
+    },
+    "GGP": {
+      "name": "Guernsey pound",
+      "country": "Alderney",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Alderney.svg/23px-Flag_of_Alderney.svg.png",
+      "symbol": "£"
+    },
+    "ALL": {
+      "name": "Albanian lek",
+      "country": "Albania",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/21px-Flag_of_Albania.svg.png",
+      "symbol": "L"
+    },
+    "EUR": {
+      "name": "Euro",
+      "country": "Akrotiri and Dhekelia",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+      "symbol": "€"
+    },
+    "AFN": {
+      "name": "Afghan afghani",
+      "country": "Afghanistan",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/23px-Flag_of_Afghanistan.svg.png",
+      "symbol": "؋"
+    },
+    "RUB": {
+      "name": "Russian ruble",
+      "country": "Abkhazia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Republic_of_Abkhazia.svg/23px-Flag_of_the_Republic_of_Abkhazia.svg.png",
+      "symbol": "₽"
+    }
+  }
+}
